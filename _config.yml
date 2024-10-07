@@ -8,11 +8,11 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.jpg
+picture: assets/images/nenad.png
 
 # your site color theme, true for dark theme, 
 # false to light theme, auto to switch with system.
-dark-theme: auto
+dark-theme: true
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -37,16 +37,16 @@ disqus:
 facebook: myfacebook
 twitter: mytwitter
 instagram: myinstagram
-linkedin: mylinkedin
+linkedin: https://www.linkedin.com/in/nenadlatinovic
 github: mygithub
 email: myemail@gmail.com
 
 authors:
   johndoe:
-    name: John Doe
-    bio: A Man who travels the world eating noodles
+    name: Nenad Latinović
+    bio: SEO and Overall Nerd
     external-image: false
-    picture: assets/images/profile.jpg
+    picture: assets/images/nenad.png
     twitter: johndoe
   jamesfoster:
     name: James Foster
