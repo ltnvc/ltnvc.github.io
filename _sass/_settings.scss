@@ -1,5 +1,5 @@
 // Background colours
-$backgroundColour: #ffffff !default;
+$backgroundColour: ##dffed5 !default;
 $codeBackgroundColour: #fafafa !default;
 $featureBackgroundColour: #f9fafa !default;
 $accentColour: #05bf85 !default;
@@ -15,7 +15,7 @@ $white: #ffffff !default;
 
 // Typography
 $bodytype: (
-  font-family: "Georgia, serif",
+  font-family: "Inter, serif",
   regular: 400,
   bold: 700,
   italic: italic,
@@ -23,7 +23,7 @@ $bodytype: (
 ) !default;
 
 $headingtype: (
-  font-family: '"Merriweather", serif',
+  font-family: '"Inter", serif',
   regular: 400,
   bold: 700,
   cap-height: 0.75
